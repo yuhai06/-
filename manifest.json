@@ -1,8 +1,8 @@
 {
- "version": "1.1.0",
- "url": "https://raw.githubusercontent.com/yuhai06/-/main/yuhai_1.1.0.zip",
- "note": "Agent接入 + 287个MCP工具 + 环境自检",
+ "version": "1.1.1",
+ "url": "https://raw.githubusercontent.com/yuhai06/-/main/yuhai_1.1.1.zip",
+ "note": "修 data_dir + 更新源可用",
  "sizeMb": 8.2,
  "fileCount": 198,
- "builtAt": "2026-11-07T23:06:54.168726+00:00"
+ "builtAt": "2026-11-07T23:09:19.541638+00:00"
 }
