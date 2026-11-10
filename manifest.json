@@ -1,7 +1,7 @@
 {
-  "version": "1.4.2",
-  "url": "https://raw.githubusercontent.com/yuhai06/yuhai-gxb/main/yuhai_1.4.2.zip",
-  "note": "TK下载/TK浏览器/DL模块/Agent增强/旧grab归档legacy + 发布多标题随机 + 环境自检版本检测修复 + 重启编码修复 + Agent页输入框常驻(修复卡顿/键盘失效) · 采集修复：轮询等待渲染 + 单视频改走内容库",
+  "version": "1.4.3",
+  "url": "https://raw.githubusercontent.com/yuhai06/yuhai-gxb/main/yuhai_1.4.3.zip",
+  "note": "TK下载/TK浏览器/DL模块/Agent增强/旧grab归档legacy + 发布多标题随机 + 环境自检版本检测修复 + 重启编码修复 + Agent页输入框常驻(修复卡顿/键盘失效) · 单独采集改用与批量完全相同的方法(collect_all)",
   "sizeMb": 8.3,
-  "builtAt": "2026-11-10T02:58:58.699183+00:00"
+  "builtAt": "2026-11-10T03:08:06.011997+00:00"
 }
