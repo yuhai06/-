@@ -1,7 +1,7 @@
 {
-  "version": "1.5.4",
-  "url": "https://raw.githubusercontent.com/yuhai06/yuhai-gxb/main/yuhai_1.5.4.zip",
-  "note": "TK下载/TK浏览器/DL模块/Agent增强/旧grab归档legacy + 发布多标题随机 + 环境自检版本检测修复 + 重启编码修复 + Agent页输入框常驻(修复卡顿/键盘失效) · 发布工具补齐(批量/标题/链接) + 文案模板强制规范",
+  "version": "1.5.5",
+  "url": "https://raw.githubusercontent.com/yuhai06/yuhai-gxb/main/yuhai_1.5.5.zip",
+  "note": "TK下载/TK浏览器/DL模块/Agent增强/旧grab归档legacy + 发布多标题随机 + 环境自检版本检测修复 + 重启编码修复 + Agent页输入框常驻(修复卡顿/键盘失效) · 修复停止失效(进程树强杀) + 每对话独立进程",
   "sizeMb": 8.4,
-  "builtAt": "2026-11-10T20:38:02.626849+00:00"
+  "builtAt": "2026-11-10T21:03:32.149599+00:00"
 }
