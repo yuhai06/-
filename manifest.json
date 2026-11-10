@@ -1,7 +1,7 @@
 {
-  "version": "1.4.8",
-  "url": "https://raw.githubusercontent.com/yuhai06/yuhai-gxb/main/yuhai_1.4.8.zip",
-  "note": "TK下载/TK浏览器/DL模块/Agent增强/旧grab归档legacy + 发布多标题随机 + 环境自检版本检测修复 + 重启编码修复 + Agent页输入框常驻(修复卡顿/键盘失效) · 新增 fs_grep/fs_table/fs_read_chunk 大文件工具",
-  "sizeMb": 8.3,
-  "builtAt": "2026-11-10T04:24:22.668764+00:00"
+  "version": "1.4.9",
+  "url": "https://raw.githubusercontent.com/yuhai06/yuhai-gxb/main/yuhai_1.4.9.zip",
+  "note": "TK下载/TK浏览器/DL模块/Agent增强/旧grab归档legacy + 发布多标题随机 + 环境自检版本检测修复 + 重启编码修复 + Agent页输入框常驻(修复卡顿/键盘失效) · 下载重构(playAddr直取) + 剧型识别(Sismance) + agent修复",
+  "sizeMb": 8.4,
+  "builtAt": "2026-11-10T12:43:36.011977+00:00"
 }
