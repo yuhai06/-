@@ -1,7 +1,7 @@
 {
-  "version": "1.3.4",
-  "url": "https://raw.githubusercontent.com/yuhai06/yuhai-gxb/main/yuhai_1.3.4.zip",
-  "note": "TK下载/TK浏览器/DL模块/Agent增强/旧grab归档legacy + 发布多标题随机 + 环境自检版本检测修复 + 重启编码修复 + Agent页输入框常驻(修复卡顿/键盘失效) · 终版",
+  "version": "1.3.5",
+  "url": "https://raw.githubusercontent.com/yuhai06/yuhai-gxb/main/yuhai_1.3.5.zip",
+  "note": "TK下载/TK浏览器/DL模块/Agent增强/旧grab归档legacy + 发布多标题随机 + 环境自检版本检测修复 + 重启编码修复 + Agent页输入框常驻(修复卡顿/键盘失效) · 修复页面切换后样式丢失",
   "sizeMb": 8.3,
-  "builtAt": "2026-11-10T01:26:45.369071+00:00"
+  "builtAt": "2026-11-10T01:28:43.618020+00:00"
 }
