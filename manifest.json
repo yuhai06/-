@@ -1,7 +1,7 @@
 {
-  "version": "1.5.8",
-  "url": "https://raw.githubusercontent.com/yuhai06/yuhai-gxb/main/yuhai_1.5.8.zip",
-  "note": "TK下载/TK浏览器/DL模块/Agent增强/旧grab归档legacy + 发布多标题随机 + 环境自检版本检测修复 + 重启编码修复 + Agent页输入框常驻(修复卡顿/键盘失效) · 修复usedHashes清理 + 主页提取自动化 + 剧名映射13个",
+  "version": "1.5.9",
+  "url": "https://raw.githubusercontent.com/yuhai06/yuhai-gxb/main/yuhai_1.5.9.zip",
+  "note": "TK下载/TK浏览器/DL模块/Agent增强/旧grab归档legacy + 发布多标题随机 + 环境自检版本检测修复 + 重启编码修复 + Agent页输入框常驻(修复卡顿/键盘失效) · 可移植路径 + 三级工具规则 + 能力自检 + 工具折叠",
   "sizeMb": 8.4,
-  "builtAt": "2026-11-10T23:15:25.479013+00:00"
+  "builtAt": "2026-11-11T00:09:34.225933+00:00"
 }
