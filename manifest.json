@@ -1,7 +1,7 @@
 {
-  "version": "1.5.15",
-  "url": "https://raw.githubusercontent.com/yuhai06/yuhai-gxb/main/yuhai_1.5.15.zip",
-  "note": "TK下载/TK浏览器/DL模块/Agent增强/旧grab归档legacy + 发布多标题随机 + 环境自检版本检测修复 + 重启编码修复 + Agent页输入框常驻(修复卡顿/键盘失效) · 授权模块(authz)增强 + 主页接口调整",
+  "version": "1.5.16",
+  "url": "https://raw.githubusercontent.com/yuhai06/yuhai-gxb/main/yuhai_1.5.16.zip",
+  "note": "TK下载/TK浏览器/DL模块/Agent增强/旧grab归档legacy + 发布多标题随机 + 环境自检版本检测修复 + 重启编码修复 + Agent页输入框常驻(修复卡顿/键盘失效) · 全自动授权邀请(fb_invite适配器) + authz前端新流程",
   "sizeMb": 4.7,
-  "builtAt": "2026-11-12T05:03:15.281614+00:00"
+  "builtAt": "2026-11-12T13:29:59.178956+00:00"
 }
