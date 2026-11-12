@@ -1,7 +1,7 @@
 {
-  "version": "1.5.12",
-  "url": "https://raw.githubusercontent.com/yuhai06/yuhai-gxb/main/yuhai_1.5.12.zip",
-  "note": "TK下载/TK浏览器/DL模块/Agent增强/旧grab归档legacy + 发布多标题随机 + 环境自检版本检测修复 + 重启编码修复 + Agent页输入框常驻(修复卡顿/键盘失效) · 修复打包冗余(去掉app/frontend旧副本, 8.4MB→4.6MB) + 前端三处同步",
-  "sizeMb": 4.6,
-  "builtAt": "2026-11-11T14:23:26.254426+00:00"
+  "version": "1.5.13",
+  "url": "https://raw.githubusercontent.com/yuhai06/yuhai-gxb/main/yuhai_1.5.13.zip",
+  "note": "TK下载/TK浏览器/DL模块/Agent增强/旧grab归档legacy + 发布多标题随机 + 环境自检版本检测修复 + 重启编码修复 + Agent页输入框常驻(修复卡顿/键盘失效) · 用户改动合并: grab迁回正式/groups/bio/identity/publish_engine + 发布中心重写",
+  "sizeMb": 4.7,
+  "builtAt": "2026-11-12T03:22:41.472244+00:00"
 }
